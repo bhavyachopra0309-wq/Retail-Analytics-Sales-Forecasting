@@ -327,10 +327,7 @@ The project can be extended with:
 
 **Bhavya Chopra**
 
-B.Tech — Computer Science and Engineering  
-Vellore Institute of Technology, Vellore
-
-Major Capstone Project
+Major  Project
 
 ## Disclaimer
 
